@@ -1,0 +1,7 @@
+A Python tool that parses your Safari Reading List
+
+Requires Python 3 and Mac OS X
+
+Run it to print all the titles in your reading list:
+
+    $ python3 parse_reading_list.py
